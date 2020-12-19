@@ -1,0 +1,35 @@
+/* Navigation Begins */
+body{
+    Margin:0;
+    padding:0;
+    font-family:'Times New Roman', Times, serif
+}
+.navbar{
+    font-size:  16px;
+    font-weight: 700px;
+    letter-spacing:  3px;  
+    padding: 20px;
+    color:rgb(241, 238, 238)
+}
+
+.nav-link {
+    color:rgb(158, 9, 9);
+}
+/* Navigation Ends */
+
+/*Main  Begins */
+.intro{ 
+    position: absolute;
+    top:55%;
+    width:100%;
+    max-width:100%;;
+    color:rgb(236, 166, 34)
+}
+/*Main  Ends */
+
+/* About Me Begins */
+.container{ margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+}
+/* About Me Ends */
