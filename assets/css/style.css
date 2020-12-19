@@ -11,6 +11,10 @@ body{
     padding: 20px;
     color:rgb(241, 238, 238)
 }
+.navbar-brand{
+    color:rgb(158, 9, 9);
+
+}
 
 .nav-link {
     color:rgb(158, 9, 9);
