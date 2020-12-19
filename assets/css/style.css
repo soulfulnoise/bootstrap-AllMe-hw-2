@@ -32,8 +32,27 @@ body{
 /*Main  Ends */
 
 /* About Me Begins */
-.container{ margin-bottom: 20px;
+.container{ margin-bottom: 55px;
     padding: 50px;
     height: 300px;
 }
 /* About Me Ends */
+
+/* Portfolio Begins */
+.row{
+    float: right;
+}
+
+/* Portfolio Ends */
+
+/* Footer Begins */
+.footer {
+    margin-bottom: auto;
+    padding: 10px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:rgb(158, 9, 9);
+    background-color: black;
+}
+/* Footer Ends */
